@@ -18,7 +18,7 @@ This is a simple, responsive React website that demonstrates the structure and l
 ### 💡 Notes
 
 * The **Article**, **Table**, and **Aside** sections are placed side-by-side using **Flexbox** for a responsive and adjustable layout.
-* The project is built using **React** and **CSS** (or optionally Tailwind/Bootstrap).
+* The project is built using **React** and **CSS**(Tailwind).
 * Ideal for learning React component structure and responsive web design principles.
 
 ---
